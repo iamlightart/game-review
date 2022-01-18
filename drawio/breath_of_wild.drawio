@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T06:24:48.673Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="l9bBvcNH5z_PscOcFH02" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T06:25:35.034Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="MZ5KGv2KBhVtMa7OBIY3" version="16.2.7" type="github">
   <diagram id="2k6ynhvocoArQwfx4wz_" name="Page-1">
     <mxGraphModel dx="1047" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#666666" math="0" shadow="0">
       <root>
@@ -213,6 +213,18 @@
         </mxCell>
         <mxCell id="vJnhW9JEeM3DnVXwUldM-88" value="&lt;span style=&quot;font-size: 12px&quot;&gt;完成神庙，获得宝珠&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="461.5" y="1766" width="125" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vJnhW9JEeM3DnVXwUldM-92" value="主动原因" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="763" y="63" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vJnhW9JEeM3DnVXwUldM-93" value="被动原因" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="763" y="163" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vJnhW9JEeM3DnVXwUldM-94" value="正反馈" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="763" y="379" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vJnhW9JEeM3DnVXwUldM-95" value="过程" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="763" y="264" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
